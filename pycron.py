@@ -86,8 +86,6 @@ class Cron(object):
 
                 line_number = line_number + 1
 
-            # Calculate the time for the next iteration (60 seconds later)
-            next_time = next_time + 60
 
 class CrondTxt(Cron):
     def __init__(self, text, command):

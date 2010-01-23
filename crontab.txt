@@ -1,5 +1,5 @@
 #m h dom mon dow cmd
-4 * * * * test
-6 * * * * test2
-8 * * * * test4
+30 * * * * test
+32 * * * * test2
+34 * * * * test4
 
